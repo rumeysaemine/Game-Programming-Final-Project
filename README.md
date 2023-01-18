@@ -10,9 +10,9 @@ Oyun yukarı ve sağ ok tuşu kullanılarak oynanır. Köprü boyutu yukarı ok 
 
 ## Oyun İçi Görsel
 #### Main Menu / Game Over Menu / Pause Menu
-![]()
+![](https://github.com/rumeysaemine/Game-Programming-Final-Project/blob/main/image/Menu.jpg)
 #### Level1 / Level2
-![]()
+![](https://github.com/rumeysaemine/Game-Programming-Final-Project/blob/main/image/Level.jpg)
 
 ## Kaynaklar
 * Müzik ve Ses Efekti
