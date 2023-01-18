@@ -1,23 +1,20 @@
 # Game-Programming-Final-Project
-### Oyun Linki
----
+## Oyun Linki
 https://simmer.io/@RumeysaEmine/final-game
-### Oynanış
----
+
+## Oynanış
 Biricik bridge platformlar arası geçiş oyunudur. Oyunda platformlar arasındaki mesafeye göre köprü boyutu ayarlanır ve oyuncunun düşmeden karşı platforma geçmesi sağlanır.
 
-### Tuşlar
----
+## Tuşlar
 Oyun yukarı ve sağ ok tuşu kullanılarak oynanır. Köprü boyutu yukarı ok tuşuyla ayarlandıktan sonra sağ ok tuşuyla köprü karşı platforma yerleştirilir. 
 
-### Oyun İçi Görsel
----
+## Oyun İçi Görsel
 #### Main Menu / Game Over Menu / Pause Menu
 ![]()
 #### Level1 / Level2
 ![]()
-### Kaynaklar
----
+
+## Kaynaklar
 * Müzik ve Ses Efekti
     - https://mixkit.co/free-sound-effects/win/
     - 
